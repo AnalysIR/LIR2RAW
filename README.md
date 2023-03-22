@@ -9,7 +9,7 @@ Free to use for non-Commercial  & Commercial use.
 
 Note: the syntax is described in in the LearnIR app guide.
 
-You can get your own LearnIR in our webshop (or on Tindie):
+You can get your own LearnIR in our webshop (or on Tindie) via:
 
 https://www.analysir.com/blog/product/learnir-advanced-infrared-learner-module/
 
